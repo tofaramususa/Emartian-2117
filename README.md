@@ -3,7 +3,9 @@
 
 Welcome to *Emartian 2117*, an immersive survival adventure set on the Red Planet. Developed for the UAE Game Jam 2024, this game puts you in the shoes of an astronaut fighting for survival in a hostile Martian environment.
 
-## This is the source Code
+## Download the Game
+This is the source code of the game, with all scripts,assets and the build
+
 
 ## Media
 
